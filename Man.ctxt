@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ keyPressed()
+comment2.params=w\ s\ a\ d\ space
+comment2.target=void\ move(boolean,\ boolean,\ boolean,\ boolean,\ boolean)
+comment3.params=
+comment3.target=void\ die()
+comment4.params=
+comment4.target=void\ animate()
+numComments=5

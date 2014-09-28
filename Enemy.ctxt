@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=xpos\ ypos
+comment0.target=Enemy(int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ AI()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=int\ getNeighbors()
+comment5.params=x\ y\ pX\ pY
+comment5.target=void\ pickDirection(int,\ int,\ int,\ int)
+comment6.params=x\ y\ pX\ pY
+comment6.target=boolean\ followPath(int,\ int,\ int,\ int)
+comment7.params=
+comment7.target=void\ die()
+comment8.params=
+comment8.target=void\ animate()
+numComments=9
