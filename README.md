@@ -9,7 +9,8 @@ Features
 ------------
 
 Vintage bomber-man classic remade in an object-orientated approach using Java. Supporting up to 4 players you can choose brawl it 
-out on the minefield with friends or duel between with the computer the choice is yours. 
+out on the minefield with friends or duel between with the computer the choice is yours to make. No matter what you will have a 
+"Blast" on the battlefield.
 
 Usage
 ------------
