@@ -1,7 +1,7 @@
 Bomber Man
 ===========
 
-Classic bomber-man. Remade with love.
+Classic bomber-man. Remade with love. Check it out [here!] (http://bazhanga.com/bomber.html)
 
 ![alt='http://bazhanga.com/images/portfolio/bomber/bomber3.png'](http://bazhanga.com/images/portfolio/bomber/bomber3.png)
 
