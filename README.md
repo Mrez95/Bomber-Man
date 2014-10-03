@@ -3,7 +3,7 @@ Bomber Man
 
 Classic bomber-man. Remade with love.
 
-![alt='http://bazhanga.com/images/portfolio/bomber/bomber3.png'](http://bazhanga.com/images/portfolio/bomber/bomber3.pn)
+![alt='http://bazhanga.com/images/portfolio/bomber/bomber3.png'](http://bazhanga.com/images/portfolio/bomber/bomber3.png)
 
 Features
 ------------
